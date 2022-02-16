@@ -2,8 +2,12 @@
 content_type: resource
 description: 'This file contains information regarding notes for lectures 8 and 9:
   gaussian elimination.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-700-linear-algebra-fall-2013/b144082f6883d02faeec26d7f708c63e_MIT18_700F13_gauss.pdf
+file: /media/courses/18-700-linear-algebra-fall-2013/b144082f6883d02faeec26d7f708c63e_MIT18_700F13_gauss.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: Gaussian Elimination
 uid: b144082f-6883-d02f-aeec-26d7f708c63e

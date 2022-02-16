@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 6c9c37f5-95f8-b96b-2624-1a1d2462526c
 ---
@@ -151,7 +154,7 @@ Gaussian elimination
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Counting over Fp. Invariant subspaces.
+Counting over F{{< sub "p" >}}. Invariant subspaces.
 {{< tdclose >}}
 {{< tdopen >}}
 \[Axler\] Chapter 5, pp. 75–79, \[[F]({{< baseurl >}}/resources/mit18_700f13_finite_fields)\]
@@ -187,7 +190,7 @@ Upper triangular and diagonal matrices
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Eigenvectors over R and Fp
+Eigenvectors over R and F{{< sub "p" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 \[Axler\] Chapter 5, pp. 91–93, \[[F]({{< baseurl >}}/resources/mit18_700f13_finite_fields)\]

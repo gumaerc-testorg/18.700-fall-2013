@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 7abf2b22-19c3-01d5-b3e6-29e458827ea7
 ---
@@ -130,7 +132,7 @@ Gaussian elimination
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Counting over Fp. Invariant subspaces.
+Counting over F{{< sub "p" >}}. Invariant subspaces.
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 3 due
@@ -166,7 +168,7 @@ Problem set 4 due
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Eigen vectors over R and Fp
+Eigen vectors over R and F{{< sub "p" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 5 due
