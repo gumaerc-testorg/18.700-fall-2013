@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2a547985-ab53-49f1-e9a3-2502cc44bce5
 resourcetype: Document
 title: One-sided Inverses
 uid: d1093d3f-7651-c8a5-8f86-0179ecb8e4ec

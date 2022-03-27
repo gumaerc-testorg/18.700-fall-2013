@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2a547985-ab53-49f1-e9a3-2502cc44bce5
 resourcetype: Document
 title: Interesting Bases
 uid: 3deb309f-7d0e-e95b-9b56-c49b94135c51

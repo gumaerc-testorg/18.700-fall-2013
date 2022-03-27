@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2a547985-ab53-49f1-e9a3-2502cc44bce5
 resourcetype: Document
 title: Proof of the Spectral Theorem
 uid: 9b678c68-3ce6-8b30-eff4-ef6cd89eb25e

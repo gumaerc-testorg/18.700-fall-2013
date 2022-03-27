@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 2a547985-ab53-49f1-e9a3-2502cc44bce5
 resourcetype: Document
 title: Generalized Eigenspaces
 uid: bfc86519-0eb8-c682-29b8-1246b77d93fb
