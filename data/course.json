@@ -22,7 +22,7 @@
     "website": "18-700-linear-algebra-fall-2013"
   },
   "course_title": "Linear Algebra",
-  "course_description": "This course offers a rigorous treatment of linear algebra, including vector spaces, systems of linear equations, bases, linear independence, matrices, determinants, eigenvalues, inner products, quadratic forms, and canonical forms of matrices. Compared with [_18.06 Linear Algebra_](/courses/18-06-linear-algebra-spring-2010/), more emphasis is placed on theory and proofs.\n",
+  "course_description": "This course offers a rigorous treatment of linear algebra, including vector spaces, systems of linear equations, bases, linear independence, matrices, determinants, eigenvalues, inner products, quadratic forms, and canonical forms of matrices. Compared with [_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011/), more emphasis is placed on theory and proofs.",
   "department_numbers": [
     "18"
   ],
@@ -35,6 +35,7 @@
   "learning_resource_types": [
     "Problem Sets"
   ],
-  "site_uid": "71cefce8-555e-4135-aa9d-1aa178260c9d",
+  "site_uid": "f65e91a4-19c7-444d-9243-6d5673af712e",
+  "short_id": "18.700-fall-2013",
   "title": "Course Metadata"
 }
