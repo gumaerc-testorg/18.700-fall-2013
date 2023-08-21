@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes reading assignments.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -11,7 +12,7 @@ Most of the reading assignments below refer to the textbook:
 
 \[Axler\] = Axler, Sheldon J. _Linear Algebra Done Right_. Springer, 2004. ISBN: 9780387982588. \[Preview with [Google Books](http://books.google.com/books?id=ovIYVIlithQC&pg=PAfrontcover)\]
 
-A few topics not fully covered in the textbook are discussed in supplementary notes available in the [Study Materials]({{< baseurl >}}/pages/study-materials) section. These include:
+A few topics not fully covered in the textbook are discussed in supplementary notes available in the {{% resource_link 2a547985-ab53-49f1-e9a3-2502cc44bce5 "Study Materials" %}} section. These include:
 
 \[F\] = Notes on Finite Fields
 
@@ -133,7 +134,7 @@ No Readings
 Finite fields. Systems of equations.
 {{< tdclose >}}
 {{< tdopen >}}
-\[[F]({{< baseurl >}}/resources/mit18_700f13_finite_fields)\], \[[GE]({{< baseurl >}}/resources/mit18_700f13_gauss)\], \[[OSI]({{< baseurl >}}/resources/mit18_700f13_one_sided)\]
+\[{{% resource_link 475deecd-0e89-3892-49a8-5fc488842642 "F" %}}\], \[{{% resource_link b144082f-6883-d02f-aeec-26d7f708c63e "GE" %}}\], \[{{% resource_link d1093d3f-7651-c8a5-8f86-0179ecb8e4ec "OSI" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +146,7 @@ Finite fields. Systems of equations.
 Gaussian elimination
 {{< tdclose >}}
 {{< tdopen >}}
-\[[GE]({{< baseurl >}}/resources/mit18_700f13_gauss)\]
+\[{{% resource_link b144082f-6883-d02f-aeec-26d7f708c63e "GE" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +158,7 @@ Gaussian elimination
 Counting over F{{< sub "p" >}}. Invariant subspaces.
 {{< tdclose >}}
 {{< tdopen >}}
-\[Axler\] Chapter 5, pp. 75–79, \[[F]({{< baseurl >}}/resources/mit18_700f13_finite_fields)\]
+\[Axler\] Chapter 5, pp. 75–79, \[{{% resource_link 475deecd-0e89-3892-49a8-5fc488842642 "F" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +194,7 @@ Upper triangular and diagonal matrices
 Eigenvectors over R and F{{< sub "p" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-\[Axler\] Chapter 5, pp. 91–93, \[[F]({{< baseurl >}}/resources/mit18_700f13_finite_fields)\]
+\[Axler\] Chapter 5, pp. 91–93, \[{{% resource_link 475deecd-0e89-3892-49a8-5fc488842642 "F" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +218,7 @@ No Readings
 Inner products, Gram-Schmidt
 {{< tdclose >}}
 {{< tdopen >}}
-\[Axler\] Chapter 6, pp. 97–111, \[[OB]({{< baseurl >}}/resources/mit18_700f13_orthgnl_base)\]
+\[Axler\] Chapter 6, pp. 97–111, \[{{% resource_link 6f9384b0-164a-7bed-db74-5b9277cc1093 "OB" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -253,7 +254,7 @@ Adjoint, self-adjoint, normal
 Spectral theorem
 {{< tdclose >}}
 {{< tdopen >}}
-\[Axler\] Chapter 7, pp. 132–44, \[[ST]({{< baseurl >}}/resources/mit18_700f13_spctrl_thrm)\]
+\[Axler\] Chapter 7, pp. 132–44, \[{{% resource_link 9b678c68-3ce6-8b30-eff4-ef6cd89eb25e "ST" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -301,7 +302,7 @@ No Readings
 Generalized eigenspaces
 {{< tdclose >}}
 {{< tdopen >}}
-\[Axler\] Chapter 8, pp. 163–68, \[[EIG]({{< baseurl >}}/resources/mit18_700f13_generalized)\]
+\[Axler\] Chapter 8, pp. 163–68, \[{{% resource_link bfc86519-0eb8-c682-29b8-1246b77d93fb "EIG" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -313,7 +314,7 @@ Generalized eigenspaces
 Generalized eigenspace decomposition
 {{< tdclose >}}
 {{< tdopen >}}
-\[Axler\] Chapter 8, pp. 173–78, \[[EIG]({{< baseurl >}}/resources/mit18_700f13_generalized)\]
+\[Axler\] Chapter 8, pp. 173–78, \[{{% resource_link bfc86519-0eb8-c682-29b8-1246b77d93fb "EIG" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
