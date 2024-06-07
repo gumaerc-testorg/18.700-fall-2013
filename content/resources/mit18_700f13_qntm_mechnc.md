@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding mathematical formalism of quantum
   mechanics.
 file: /courses/18-700-linear-algebra-fall-2013/cc993d0c7953d1aa7d57997b1e43b7da_MIT18_700F13_qntm_mechnc.pdf
+file_size: 390904
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

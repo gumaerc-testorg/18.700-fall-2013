@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains information regarding notes for lecture 8: one-sided
   inverses.'
 file: /courses/18-700-linear-algebra-fall-2013/d1093d3f7651c8a58f860179ecb8e4ec_MIT18_700F13_one_sided.pdf
+file_size: 121712
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
