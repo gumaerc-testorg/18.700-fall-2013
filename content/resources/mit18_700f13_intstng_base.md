@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding some interesting bases.
 file: /courses/18-700-linear-algebra-fall-2013/3deb309f7d0ee95b9b56c49b94135c51_MIT18_700F13_intstng_base.pdf
+file_size: 158547
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
