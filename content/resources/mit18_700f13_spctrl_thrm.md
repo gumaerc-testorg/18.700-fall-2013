@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding notes for lecture 18: proof
   of the spectral theorem.'
-file: /courses/18-700-linear-algebra-fall-2013/9b678c683ce68b30eff4ef6cd89eb25e_MIT18_700F13_spctrl_thrm.pdf
+file: /ol-ocw-studio-app/courses/18-700-linear-algebra-fall-2013/9b678c683ce68b30eff4ef6cd89eb25e_MIT18_700F13_spctrl_thrm.pdf
 file_size: 249675
 file_type: application/pdf
 learning_resource_types: []

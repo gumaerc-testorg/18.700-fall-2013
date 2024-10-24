@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding notes for lectures 22 and 23:
   generalized eigenspaces.'
-file: /courses/18-700-linear-algebra-fall-2013/bfc865190eb8c68229b81246b77d93fb_MIT18_700F13_generalized.pdf
+file: /ol-ocw-studio-app/courses/18-700-linear-algebra-fall-2013/bfc865190eb8c68229b81246b77d93fb_MIT18_700F13_generalized.pdf
 file_size: 351603
 file_type: application/pdf
 learning_resource_types: []
