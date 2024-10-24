@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding notes for lecture 15: orthogonal
   bases.'
-file: /courses/18-700-linear-algebra-fall-2013/6f9384b0164a7beddb745b9277cc1093_MIT18_700F13_orthgnl_base.pdf
+file: /ol-ocw-studio-app/courses/18-700-linear-algebra-fall-2013/6f9384b0164a7beddb745b9277cc1093_MIT18_700F13_orthgnl_base.pdf
 file_size: 119964
 file_type: application/pdf
 learning_resource_types: []
