@@ -10,7 +10,7 @@ uid: b0494f2b-51e2-1989-e03b-48e1674e6618
 ---
 Many of the problems are assigned from the required textbook:
 
-Axler, Sheldon J. *Linear Algebra Done Right*. Springer, 2004. ISBN: 9780387982588. \[Preview with [Google Books](http://books.google.com/books?id=ovIYVIlithQC&pg=PAfrontcover)\]
+Axler, Sheldon J. *Linear Algebra Done Right*. Springer, 2004. ISBN: 9780387982588. \[Preview with {{% resource_link "4890b503-8618-40a5-8a53-95d6f6cb5931" "Google Books" %}}\]
 
 {{% resource_link "2902800c-50a2-9c09-0163-aa39fb997b32" "Problem Set 1 (PDF)" %}}
 
