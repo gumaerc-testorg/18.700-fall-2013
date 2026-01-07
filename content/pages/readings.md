@@ -10,7 +10,7 @@ uid: 6c9c37f5-95f8-b96b-2624-1a1d2462526c
 
 Most of the reading assignments below refer to the textbook:
 
-\[Axler\] = Axler, Sheldon J. _Linear Algebra Done Right_. Springer, 2004. ISBN: 9780387982588. \[Preview with {{% resource_link "4890b503-8618-40a5-8a53-95d6f6cb5931" "Google Books" %}}\]
+\[Axler\] = Axler, Sheldon J. _Linear Algebra Done Right_. Springer, 2004. ISBN: 9780387982588. \[Preview with [Google Books](http://books.google.com/books?id=ovIYVIlithQC&pg=PAfrontcover)\]
 
 A few topics not fully covered in the textbook are discussed in supplementary notes available in the {{% resource_link 2a547985-ab53-49f1-e9a3-2502cc44bce5 "Study Materials" %}} section. These include:
 

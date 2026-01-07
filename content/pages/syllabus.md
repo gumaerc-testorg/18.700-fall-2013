@@ -22,7 +22,7 @@ This course offers a rigorous treatment of linear algebra, including vector spac
 
 ## Textbook
 
-Axler, Sheldon J. _Linear Algebra Done Right_. Springer, 2004. ISBN: 9780387982588. \[Preview with {{% resource_link "4890b503-8618-40a5-8a53-95d6f6cb5931" "Google Books" %}}\]
+Axler, Sheldon J. _Linear Algebra Done Right_. Springer, 2004. ISBN: 9780387982588. \[Preview with [Google Books](http://books.google.com/books?id=ovIYVIlithQC&pg=PAfrontcover)\]
 
 ## Homework
 
